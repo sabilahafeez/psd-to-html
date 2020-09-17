@@ -42,7 +42,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 80vh;
+            height: 95vh;
             background: linear-gradient( to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url(images/Background.png);
             background-position: center;
             background-repeat: no-repeat;
